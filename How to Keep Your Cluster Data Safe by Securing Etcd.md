@@ -1,5 +1,4 @@
-
-﻿# How to Keep Your Cluster Data Safe by Securing Etcd
+# How to Keep Your Cluster Data Safe by Securing Etcd
 
 
 Deploying containers may seem simple, but managing them at a large scale, particularly when working with microservices and multiple cloud providers, requires careful planning. 
