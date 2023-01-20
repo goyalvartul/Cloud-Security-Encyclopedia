@@ -1,5 +1,4 @@
-
-﻿# Building a Fortress in a Container: How to Create a Secure Kubernetes Image
+# Building a Fortress in a Container: How to Create a Secure Kubernetes Image
 
 
 Security is a major concern when it comes to containerization, particularly with regard to container images. A recent report by Red Hat on the State of Kubernetes and Container Security revealed that:
