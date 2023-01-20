@@ -34,11 +34,11 @@
 
 [Elevate Your AKS Security: Boosting Authentication and Authorization - Part 1](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Elevate%20Your%20AKS%20Security:%20Boosting%20Authentication%20and%20Authorization%20-%20Part%201.md)
 
-[Elevate Your AKS Security: Boosting Authentication and Authorization - Part 2](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Elevate%20Your%20AKS%20Security:%20Boosting%20Authentication%20and%20Authorization%20-%20Part%202.md))
+[Elevate Your AKS Security: Boosting Authentication and Authorization - Part 2](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Elevate%20Your%20AKS%20Security:%20Boosting%20Authentication%20and%20Authorization%20-%20Part%202.md)
 
 [Elevate Your AKS Security: Boosting Authentication and Authorization - Part 3](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Elevate%20Your%20AKS%20Security:%20Boosting%20Authentication%20and%20Authorization%20-%20Part%203.md)
 
-[Kuber-Proofing: Secure Your Pods with These Proven Tips for Configuring a Security Context - Part 1](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Kuber-Proofing:%20Secure%20Your%20Pods%20with%20These%20Proven%20Tips%20for%20Configuring%20a%20Security%20Context%20-%20Part%201.md))
+[Kuber-Proofing: Secure Your Pods with These Proven Tips for Configuring a Security Context - Part 1](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Kuber-Proofing:%20Secure%20Your%20Pods%20with%20These%20Proven%20Tips%20for%20Configuring%20a%20Security%20Context%20-%20Part%201.md)
 
 [Title](https://link.com)
 
