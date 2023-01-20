@@ -3,7 +3,7 @@
 
 [A Guide to Securely Managing Sensitive Data in Kubernetes](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/A%20Guide%20to%20Securely%20Managing%20Sensitive%20Data%20in%20Kubernetes.md)
 
-[A Guide to Securing Your Kubernetes Container Runtime](https://link.com](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/A%20Guide%20to%20Securing%20Your%20Kubernetes%20Container%20Runtime.md)
+[A Guide to Securing Your Kubernetes Container Runtime](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/A%20Guide%20to%20Securing%20Your%20Kubernetes%20Container%20Runtime.md)
 
 [API Secure: Fortifying Your Kubernetes API Server Against Cyber Threats](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/API%20Secure:%20Fortifying%20Your%20Kubernetes%20API%20Server%20Against%20Cyber%20Threats.md)
 
