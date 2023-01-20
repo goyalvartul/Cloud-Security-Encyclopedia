@@ -12,17 +12,17 @@
 [EKS Security Watchdog: How Amazon GuardDuty Can Help You Detect and Mitigate Security Issues in Your Amazon EKS Clusters](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/EKS%20Security%20Watchdog:%20How%20Amazon%20GuardDuty%20Can%20Help%20You%20Detect%20and%20Mitigate%20Security%20Issues%20in%20Your%20Amazon%20EKS%20Clusters.md)
 
 [EKS Sleuth: Investigating and Taking Action on Security Issues in Amazon EKS Clusters with Amazon Detective
-]([https://link.com](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/EKS%20Sleuth:%20Investigating%20and%20Taking%20Action%20on%20Security%20Issues%20in%20Amazon%20EKS%20Clusters%20with%20Amazon%20Detective.md)
+](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/EKS%20Sleuth:%20Investigating%20and%20Taking%20Action%20on%20Security%20Issues%20in%20Amazon%20EKS%20Clusters%20with%20Amazon%20Detective.md)
 
-[How to Keep Your Cluster Data Safe by Securing Etcd]([https://link.com](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/How%20to%20Keep%20Your%20Cluster%20Data%20Safe%20by%20Securing%20Etcd.md)
+[How to Keep Your Cluster Data Safe by Securing Etcd](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/How%20to%20Keep%20Your%20Cluster%20Data%20Safe%20by%20Securing%20Etcd.md)
 
-[How to Log and Monitor Events in Your Kubernetes Cluster - Part 1]([https://link.com](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/How%20to%20Log%20and%20Monitor%20Events%20in%20Your%20Kubernetes%20Cluster%20-%20Part%201.md)
+[How to Log and Monitor Events in Your Kubernetes Cluster - Part 1](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/How%20to%20Log%20and%20Monitor%20Events%20in%20Your%20Kubernetes%20Cluster%20-%20Part%201.md)
 
-[How to Log and Monitor Events in Your Kubernetes Cluster - Part 2]([https://link.com](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/How%20to%20Log%20and%20Monitor%20Events%20in%20Your%20Kubernetes%20Cluster%20-%20Part%202.md)
+[How to Log and Monitor Events in Your Kubernetes Cluster - Part 2](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/How%20to%20Log%20and%20Monitor%20Events%20in%20Your%20Kubernetes%20Cluster%20-%20Part%202.md)
 
-[Kubelet Security: Protecting the Heart of Your Kubernetes Cluster]([https://link.com](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Kubelet%20Security:%20Protecting%20the%20Heart%20of%20Your%20Kubernetes%20Cluster%20.md)
+[Kubelet Security: Protecting the Heart of Your Kubernetes Cluster](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Kubelet%20Security:%20Protecting%20the%20Heart%20of%20Your%20Kubernetes%20Cluster%20.md)
 
-[Kubernetes Secrets Unlocked: How to Use AWS Secrets & Configuration Provider with Your Kubernetes Secrets Store CSI Driver]([https://link.com](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Kubernetes%20Secrets%20Unlocked:%20How%20to%20Use%20AWS%20Secrets%20%26%20Configuration%20Provider%20with%20Your%20Kubernetes%20Secrets%20Store%20CSI%20Driver.md)
+[Kubernetes Secrets Unlocked: How to Use AWS Secrets & Configuration Provider with Your Kubernetes Secrets Store CSI Driver](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Kubernetes%20Secrets%20Unlocked:%20How%20to%20Use%20AWS%20Secrets%20%26%20Configuration%20Provider%20with%20Your%20Kubernetes%20Secrets%20Store%20CSI%20Driver.md)
 
 [Title](https://link.com)
 
