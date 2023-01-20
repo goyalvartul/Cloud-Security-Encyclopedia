@@ -1,5 +1,4 @@
-
-﻿# Kubelet Security: Protecting the Heart of Your Kubernetes Cluster 
+# Kubelet Security: Protecting the Heart of Your Kubernetes Cluster 
 
 
 The kubelet is a crucial component in any Kubernetes deployment, often referred to as the "Kubernetes agent" software. It plays a key role in connecting the nodes to the cluster logic. Its main purpose is to manage the local container engine (such as Docker) and ensure that pods described in the API are created, run, maintained in a healthy state, and eventually destroyed when necessary.
