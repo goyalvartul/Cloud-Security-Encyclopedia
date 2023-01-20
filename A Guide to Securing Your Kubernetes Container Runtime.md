@@ -1,5 +1,4 @@
-
-﻿# A Guide to Securing Your Kubernetes Container Runtime
+# A Guide to Securing Your Kubernetes Container Runtime
 
 
 Although many administrators recognize the significance of runtime security and its importance, they tend to neglect or not allocate enough resources towards it in their Kubernetes security plans. 
