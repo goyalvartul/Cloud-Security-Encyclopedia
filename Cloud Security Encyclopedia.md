@@ -1,7 +1,7 @@
 # A collection of articles about Kubernetes security on AWS and Azure
 
 
-[A Guide to Securely Managing Sensitive Data in Kubernetes](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/A%20Guide%20to%20Securely%20Managing%20Sensitive%20Data%20in%20Kubernetes.md)
+1. [A Guide to Securely Managing Sensitive Data in Kubernetes](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/A%20Guide%20to%20Securely%20Managing%20Sensitive%20Data%20in%20Kubernetes.md)
 
 [A Guide to Securing Your Kubernetes Container Runtime](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/A%20Guide%20to%20Securing%20Your%20Kubernetes%20Container%20Runtime.md)
 
