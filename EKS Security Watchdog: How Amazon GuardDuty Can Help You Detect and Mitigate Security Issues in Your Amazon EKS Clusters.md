@@ -1,5 +1,4 @@
-
-﻿# EKS Security Watchdog: How Amazon GuardDuty Can Help You Detect and Mitigate Security Issues in Your Amazon EKS Clusters
+# EKS Security Watchdog: How Amazon GuardDuty Can Help You Detect and Mitigate Security Issues in Your Amazon EKS Clusters
 
 
 Starting from January 2022, Amazon GuardDuty began monitoring Amazon Elastic Kubernetes Service (Amazon EKS) clusters on a continuous basis in order to detect any malicious or suspicious behavior that could pose a threat to container workloads. Amazon GuardDuty for EKS Protection examines activity in the control plane by analyzing Kubernetes audit logs from both new and existing Amazon EKS clusters in your accounts. GuardDuty is integrated with Amazon EKS, which means it can access Kubernetes audit logs directly without the need for you to enable or store these logs. Once a threat is identified, GuardDuty generates a security finding that includes container details such as the pod ID, container image ID, and associated tags.
