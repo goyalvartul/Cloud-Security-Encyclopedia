@@ -1,5 +1,4 @@
-
-﻿# API Secure: Fortifying Your Kubernetes API Server Against Cyber Threats
+# API Secure: Fortifying Your Kubernetes API Server Against Cyber Threats
 
 
 The control structure in a Kubernetes cluster involves the Control Plane managing Nodes, which in turn manage Pods, which control containers, and these containers manage applications. However, who manages the Control Plane? Securing access to the Kubernetes API, which enables management of the entire cluster, is a crucial aspect of Kubernetes security. 
