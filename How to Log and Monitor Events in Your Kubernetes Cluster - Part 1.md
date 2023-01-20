@@ -1,5 +1,4 @@
-
-﻿# How to Log and Monitor Events in Your Kubernetes Cluster - Part 1
+# How to Log and Monitor Events in Your Kubernetes Cluster - Part 1
 
 Kubernetes can be used to gather metrics, logs, and events for monitoring and troubleshooting purposes.
 
