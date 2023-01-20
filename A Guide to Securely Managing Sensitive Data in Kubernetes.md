@@ -1,5 +1,5 @@
 
-﻿##A Guide to Securely Managing Sensitive Data in Kubernetes
+﻿# A Guide to Securely Managing Sensitive Data in Kubernetes
 
 Secrets in Kubernetes are a secure means of storing sensitive information, including passwords, OAuth tokens, and SSH keys, among other data. These objects are encrypted and can be used within clusters. Some key features of Secrets include:
 
