@@ -1,5 +1,20 @@
 # Cloud-Security-Encyclopedia
 
+Cloud security is a vital aspect of protecting sensitive data and information stored in the cloud. It involves the use of various security measures and technologies to protect against unauthorized access, data breaches, and other cyber threats.
+
+Encyclopedia is an excellent way to stay informed about the latest developments in cloud security. Many experts in the field publish regular updates on new technologies, best practices, and emerging threats. Some popular topics that are commonly discussed in cloud security blogs include:
+
+Encryption and data protection: This includes the use of encryption to secure data in transit and at rest, as well as the use of secure key management systems.
+
+Identity and access management: This involves the use of identity and access management (IAM) solutions to control access to cloud resources and ensure that only authorized users can access sensitive data.
+
+Compliance and regulatory requirements: Many organizations must comply with various laws and regulations that govern the handling of sensitive data. Cloud security blogs often provide guidance on how to meet these requirements.
+
+Cloud security best practices: Many blogs offer practical tips and advice on how to improve cloud security, such as implementing multi-factor authentication, monitoring for suspicious activity, and implementing regular security audits.
+
+Cloud security threats and trends: As cyber threats continue to evolve, cloud security blogs keep readers informed about the latest trends and threats, such as the rise of cloud-native threats, IoT security challenges, and the increasing use of artificial intelligence and machine learning in cyber attacks.             
+
+
 # A collection of articles about Kubernetes security on AWS and Azure
 
 
@@ -64,7 +79,6 @@
 
 30. [Kubernetes DevSecOps: Navigating Vulnerabilities and Implementing Best Practices - Part 3](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Kubernetes%20DevSecOps:%20Navigating%20Vulnerabilities%20and%20Implementing%20Best%20Practices%20-%20Part%203.md)
 
-
 31. [Protect Your Amazon EKS Cluster with CNCF Falco's Proven Runtime Security Techniques - Part 1](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Protect%20Your%20Amazon%20EKS%20Cluster%20with%20CNCF%20Falco's%20Proven%20Runtime%20Security%20Techniques%20-%20Part%201.md)
 
 32. [Protect Your Amazon EKS Cluster with CNCF Falco's Proven Runtime Security Techniques - Part 2](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Protect%20Your%20Amazon%20EKS%20Cluster%20with%20CNCF%20Falco's%20Proven%20Runtime%20Security%20Techniques%20-%20Part%202.md)
@@ -74,3 +88,22 @@
 34. [Protect Your Amazon EKS Cluster with CNCF Falco's Proven Runtime Security Techniques - Part 4](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Protect%20Your%20Amazon%20EKS%20Cluster%20with%20CNCF%20Falco's%20Proven%20Runtime%20Security%20Techniques%20-%20Part%204.md)
 
 35. [Securing the Foundation: Implementing Baseline Security for Azure Kubernetes Service (AKS)](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Securing%20the%20Foundation:%20Implementing%20Baseline%20Security%20for%20Azure%20Kubernetes%20Service%20(AKS).md)
+
+## Screenshots
+
+![App Screenshot](https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2019/03/11/aws-security-services-purpose.png)
+
+![App Screenshot](https://user-images.githubusercontent.com/56096409/118192016-5ab5ec80-b3fa-11eb-89e0-39e7803756bc.jpg)
+
+![App Screenshot](https://learn.microsoft.com/en-us/azure/governance/blueprints/media/azure-security-benchmark-foundation/architecture.png)
+
+![App Screenshot](https://cheatsheetseries.owasp.org/assets/Kubernetes_Architecture.png)
+
+
+## Authors
+
+- [@vartulgoyal](https://www.linkedin.com/in/vartul-goyal/)
+
+## 🚀 About Me
+I have an experience of 13 years in Information Security, DevSecOps, Web, Cloud, Network Penetration Testing, Vulnerability Assessment, Red Teaming Activities(Mitre Attack Simulation), SAST, DAST,  OWASP TOP 10, SANS 25, Active Bug Bounty Hunter and Cloud Security(AWS) in the Fintech and Crypto Regulation Space. I have written three books: Bounty Security Hack(Published in Amazon), API Security Bundle & CyberSecurity for CISO/CTO/CIO(Published in Amazon). I have got "Hall of Fame" from Microsoft (4 times), UpWork, Intel, Samsung, Indeed, Netflix, Seagate, Paypal, and Jet Airways. I have total five cloud security certifications: Certified Cloud Security Professional as AWS Certified Specialist, GCP Security Specialist Certified, CKA, CKS and OHCE (OFFENSIVE HACKING CERTIFIED EXPERT) from GCSRT.
+
