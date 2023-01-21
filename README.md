@@ -100,6 +100,15 @@ Cloud security threats and trends: As cyber threats continue to evolve, cloud se
 ![App Screenshot](https://cheatsheetseries.owasp.org/assets/Kubernetes_Architecture.png)
 
 
+## Cloud Security References
+
+ - [AWS Security](https://aws.amazon.com/security/)
+ - [Azure Security](https://azure.microsoft.com/en-in/explore/security/)
+ - [GCP Security](https://cloud.google.com/security)
+  - [Kubernetes Security](https://kubernetes.io/docs/concepts/security/)
+
+
+
 ## Authors
 
 - [@vartulgoyal](https://www.linkedin.com/in/vartul-goyal/)
