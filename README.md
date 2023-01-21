@@ -120,3 +120,7 @@ AWS, Azure, GCP and Kubernetes Basic Knowledge
 ## 🚀 About Me
 I have an experience of 13 years in Information Security, DevSecOps, Web, Cloud, Network Penetration Testing, Vulnerability Assessment, Red Teaming Activities(Mitre Attack Simulation), SAST, DAST,  OWASP TOP 10, SANS 25, Active Bug Bounty Hunter and Cloud Security(AWS) in the Fintech and Crypto Regulation Space. I have written three books: Bounty Security Hack(Published in Amazon), API Security Bundle & CyberSecurity for CISO/CTO/CIO(Published in Amazon). I have got "Hall of Fame" from Microsoft (4 times), UpWork, Intel, Samsung, Indeed, Netflix, Seagate, Paypal, and Jet Airways. I have total five cloud security certifications: Certified Cloud Security Professional as AWS Certified Specialist, GCP Security Specialist Certified, CKA, CKS and OHCE (OFFENSIVE HACKING CERTIFIED EXPERT) from GCSRT.
 
+
+## Feedback
+
+If you have any feedback, please reach out to us at goyalvartul@gmail.com
