@@ -100,6 +100,10 @@ Cloud security threats and trends: As cyber threats continue to evolve, cloud se
 ![App Screenshot](https://cheatsheetseries.owasp.org/assets/Kubernetes_Architecture.png)
 
 
+## 🛠 Requirements 
+AWS, Azure, GCP and Kubernetes Basic Knowledge
+
+
 ## Cloud Security References
 
  - [AWS Security](https://aws.amazon.com/security/)
