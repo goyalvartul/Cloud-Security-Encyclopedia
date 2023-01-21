@@ -112,6 +112,13 @@ AWS, Azure, GCP and Kubernetes Basic Knowledge
   - [Kubernetes Security](https://kubernetes.io/docs/concepts/security/)
 
 
+## Kubernetes Security Benchmarking Python Scripts
+
+ - [AWS Kubernetes CIS Security Script](https://github.com/goyalvartul/code/blob/main/AWS-CIS-Kubernetes-Python-Script.py)
+ - [Azure Kubernetes CIS Security Script](https://github.com/goyalvartul/code/blob/main/Azure-CIS-Kubernetes-Python-Script.py)
+ - [GCP Kubernetes CIS Security Script](https://github.com/goyalvartul/code/blob/main/GCP-CIS_Kubernetes-Python-Script.py)
+  - [Kubernetes CIS Security Script](https://github.com/goyalvartul/code/blob/main/CIS_Kubernetes-Python-Script.py)
+
 
 ## Authors
 
