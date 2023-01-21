@@ -62,14 +62,13 @@
 
 30. [Kubernetes DevSecOps: Navigating Vulnerabilities and Implementing Best Practices - Part 3](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Kubernetes%20DevSecOps:%20Navigating%20Vulnerabilities%20and%20Implementing%20Best%20Practices%20-%20Part%203.md)
 
-31. [Kubernetes Secrets Unlocked: How to Use AWS Secrets & Configuration Provider with Your Kubernetes Secrets Store CSI Driver](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Kubernetes%20Secrets%20Unlocked:%20How%20to%20Use%20AWS%20Secrets%20%26%20Configuration%20Provider%20with%20Your%20Kubernetes%20Secrets%20Store%20CSI%20Driver.md)
 
-32. [Protect Your Amazon EKS Cluster with CNCF Falco's Proven Runtime Security Techniques - Part 1](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Protect%20Your%20Amazon%20EKS%20Cluster%20with%20CNCF%20Falco's%20Proven%20Runtime%20Security%20Techniques%20-%20Part%201.md)
+31. [Protect Your Amazon EKS Cluster with CNCF Falco's Proven Runtime Security Techniques - Part 1](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Protect%20Your%20Amazon%20EKS%20Cluster%20with%20CNCF%20Falco's%20Proven%20Runtime%20Security%20Techniques%20-%20Part%201.md)
 
-33. [Protect Your Amazon EKS Cluster with CNCF Falco's Proven Runtime Security Techniques - Part 2](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Protect%20Your%20Amazon%20EKS%20Cluster%20with%20CNCF%20Falco's%20Proven%20Runtime%20Security%20Techniques%20-%20Part%202.md)
+32. [Protect Your Amazon EKS Cluster with CNCF Falco's Proven Runtime Security Techniques - Part 2](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Protect%20Your%20Amazon%20EKS%20Cluster%20with%20CNCF%20Falco's%20Proven%20Runtime%20Security%20Techniques%20-%20Part%202.md)
 
-34. [Protect Your Amazon EKS Cluster with CNCF Falco's Proven Runtime Security Techniques - Part 3](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Protect%20Your%20Amazon%20EKS%20Cluster%20with%20CNCF%20Falco's%20Proven%20Runtime%20Security%20Techniques%20-%20Part%203.md)
+33. [Protect Your Amazon EKS Cluster with CNCF Falco's Proven Runtime Security Techniques - Part 3](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Protect%20Your%20Amazon%20EKS%20Cluster%20with%20CNCF%20Falco's%20Proven%20Runtime%20Security%20Techniques%20-%20Part%203.md)
 
-35. [Protect Your Amazon EKS Cluster with CNCF Falco's Proven Runtime Security Techniques - Part 4](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Protect%20Your%20Amazon%20EKS%20Cluster%20with%20CNCF%20Falco's%20Proven%20Runtime%20Security%20Techniques%20-%20Part%204.md)
+34. [Protect Your Amazon EKS Cluster with CNCF Falco's Proven Runtime Security Techniques - Part 4](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Protect%20Your%20Amazon%20EKS%20Cluster%20with%20CNCF%20Falco's%20Proven%20Runtime%20Security%20Techniques%20-%20Part%204.md)
 
-36. [Securing the Foundation: Implementing Baseline Security for Azure Kubernetes Service (AKS)](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Securing%20the%20Foundation:%20Implementing%20Baseline%20Security%20for%20Azure%20Kubernetes%20Service%20(AKS).md)
+35. [Securing the Foundation: Implementing Baseline Security for Azure Kubernetes Service (AKS)](https://github.com/rrsingh8282/Cloud-Security-Encyclopedia/blob/main/Securing%20the%20Foundation:%20Implementing%20Baseline%20Security%20for%20Azure%20Kubernetes%20Service%20(AKS).md)
