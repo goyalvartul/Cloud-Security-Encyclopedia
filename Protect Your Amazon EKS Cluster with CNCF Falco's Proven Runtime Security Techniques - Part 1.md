@@ -48,127 +48,72 @@ You can find many examples of ClusterConfig samples on the eksctl.io page. Below
 
 cluster-config.yaml file:
 
-apiVersion: eksctl.io/v1alpha5
+    apiVersion: eksctl.io/v1alpha5
+    kind: ClusterConfig
+    metadata:
+    `  `name: eks-managed-cluster
+    `  `region: ap-south-1
+    vpc:
+    `  `id: "vpc-xxxxxxxxxx" # Provide the VPC ID 
+    `  `cidr: "xxxxxxxxxxxx" # Provide the VPC CIDR Range
+    `  `subnets:
+    `    `public:
+    `      `ap-south-1a:
+    `          `id: "subnet-xxxxxxxx" # Provide the Subnet ID
+    `          `cidr: "xxxxxxxxxxxx" # Provide the Subnet CIDR Range
+    `      `ap-south-1b:
+    `          `id: "subnet-xxxxxxxx" # Provide the Subnet ID
+    `          `cidr: "xxxxxxxxxxxx" # Provide the Subnet CIDR Range 
 
-kind: ClusterConfig
+        
 
-metadata:
-
-`  `name: eks-managed-cluster
-
-`  `region: ap-south-1
-
-vpc:
-
-`  `id: "vpc-xxxxxxxxxx" # Provide the VPC ID 
-
-`  `cidr: "xxxxxxxxxxxx" # Provide the VPC CIDR Range
-
-`  `subnets:
-
-`    `public:
-
-`      `ap-south-1a:
-
-`          `id: "subnet-xxxxxxxx" # Provide the Subnet ID
-
-`          `cidr: "xxxxxxxxxxxx" # Provide the Subnet CIDR Range
-
-`      `ap-south-1b:
-
-`          `id: "subnet-xxxxxxxx" # Provide the Subnet ID
-
-`          `cidr: "xxxxxxxxxxxx" # Provide the Subnet CIDR Range          
-
-\# Provide the service role for EKS cluster         
-
-#iam:
-
-\#  serviceRoleARN: "arn:aws:iam::11111:role/eks-base-service-role"
-
-\# Below schema elements build Non-EKS managed node groups
-
-#nodeGroups:
-
-\#  - name: ng-1
-
-\#    instanceType: m5.large
-
-\#    desiredCapacity: 3
-
-\#    iam:
-
-\#      instanceProfileARN: "arn:aws:iam::11111:instance-profile/eks-nodes-base-role"
-
-\#      instanceRoleARN: "arn:aws:iam::1111:role/eks-nodes-base-role"
-
-\#    privateNetworking: true
-
-\#    securityGroups:
-
-\#      withShared: true
-
-\#      withLocal: true
-
-\#      attachIDs: ['sg-xxxxxx', 'sg-xxxxxx']
-
-\#    ssh:
-
-\#      publicKeyName: 'my-instance-public-key'
-
-\#    tags:
-
-\#      'environment:basedomain': 'example.org'
-
-\# Below schema elements build EKS managed node groups
-
-managedNodeGroups:
-
-\- name: eks-managed-ng-1 # Provide the name of the node group
-
-minSize: 1 # Autoscaling Group configuration
-
-maxSize: 2 # Autoscaling Group configuration
-
-instanceType: t2.small # Size and type of the worker nodes
-
-desiredCapacity: 1 # Autoscaling Group configuration
-
-volumeSize: 20 # Worker Node volume size
-
-ssh:
-
-allow: true
-
-\# You can use the provided public key to logon to the containers.
-
-publicKeyPath: ~/.ssh/id\_rsa.pub
-
-\# sourceSecurityGroupIds: ["sg-xxxxxxxxxxx"]. # OPTIONAL
-
-labels: {role: worker}
-
-tags:
-
-nodegroup-role: worker
-
-iam:
-
-withAddonPolicies:
-
-externalDNS: true
-
-certManager: true
-
-\# provide the role ARN to be atatched to instances
-
-\#    iam:
-
-\#      instanceRoleARN: "arn:aws:iam::1111:role/eks-nodes-base-role"
+    \# Provide the service role for EKS cluster         
+    #iam:
+    \#  serviceRoleARN: "arn:aws:iam::11111:role/eks-base-service-role"
+    \# Below schema elements build Non-EKS managed node groups
+    #nodeGroups:
+    \#  - name: ng-1
+    \#    instanceType: m5.large
+    \#    desiredCapacity: 3
+    \#    iam:
+    \#      instanceProfileARN: "arn:aws:iam::11111:instance-profile/eks-nodes-base-role"
+    \#      instanceRoleARN: "arn:aws:iam::1111:role/eks-nodes-base-role"
+    \#    privateNetworking: true
+    \#    securityGroups:
+    \#      withShared: true
+    \#      withLocal: true
+    \#      attachIDs: ['sg-xxxxxx', 'sg-xxxxxx']
+    \#    ssh:
+    \#      publicKeyName: 'my-instance-public-key'
+    \#    tags:
+    \#      'environment:basedomain': 'example.org'
+    \# Below schema elements build EKS managed node groups
+    managedNodeGroups:
+    \- name: eks-managed-ng-1 # Provide the name of the node group
+    minSize: 1 # Autoscaling Group configuration
+    maxSize: 2 # Autoscaling Group configuration
+    instanceType: t2.small # Size and type of the worker nodes
+    desiredCapacity: 1 # Autoscaling Group configuration
+    volumeSize: 20 # Worker Node volume size
+    ssh:
+       allow: true
+    \# You can use the provided public key to logon to the containers.
+    publicKeyPath: ~/.ssh/id\_rsa.pub
+    \# sourceSecurityGroupIds: ["sg-xxxxxxxxxxx"]. # OPTIONAL
+    labels: {role: worker}
+    tags:
+       nodegroup-role: worker
+    iam:
+    withAddonPolicies:
+    externalDNS: true
+    certManager: true
+    \# provide the role ARN to be atatched to instances
+    \#    iam:
+    \#      instanceRoleARN: "arn:aws:iam::1111:role/eks-nodes-base-role"
 
 Execute the following command to create the Amazon EKS cluster:
 
-eksctl create cluster -f cluster-config.yaml
+    eksctl create cluster -f cluster-config.yaml
 
 You can locate the cluster created by Amazon CloudFormation as shown below:
 
