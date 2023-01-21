@@ -1,4 +1,4 @@
-# Cloud-Security-Encyclopedia
+# Cloud Security Encyclopedia
 
 Cloud security is a vital aspect of protecting sensitive data and information stored in the cloud. It involves the use of various security measures and technologies to protect against unauthorized access, data breaches, and other cyber threats.
 
