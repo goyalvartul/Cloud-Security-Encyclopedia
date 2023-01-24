@@ -110,7 +110,15 @@ AWS, Azure, GCP and Kubernetes Basic Knowledge
  - [Azure Security](https://azure.microsoft.com/en-in/explore/security/)
  - [GCP Security](https://cloud.google.com/security)
   - [Kubernetes Security](https://kubernetes.io/docs/concepts/security/)
+  
+  
+  ## Kubernetes Security Misconfiguration References 
 
+ - [Kubernetes Security Misconfiguration ETCD Controller Manager Kube API Server Scheduler](https://github.com/goyalvartul/code/blob/main/Kubernetes-Security-Misconfiguration-Etcd-Controller-Manager-Kube-API-Server-Scheduler.docx)
+ - [Kubernetes Security Misconfiguration Ingress Egress Controller](https://github.com/goyalvartul/code/blob/main/Kubernetes-Security-Misconfiguration-Ingress-Egress%20-%20Copy.docx)
+ - [Kubernetes Security Misconfiguration Networking Controls](https://github.com/goyalvartul/code/blob/main/Kubernetes-Security-Misconfiguration-Networking-Controls.docx)
+  
+  
 
 ## Kubernetes Security Benchmarking Python Scripts
 
